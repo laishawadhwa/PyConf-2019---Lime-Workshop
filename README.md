@@ -32,6 +32,8 @@ To run the notebooks open the link during the session and then select either of 
 - Open in Playground mode.
 ![GitHub Logo](/images/playground.PNG)
 
+\newline
+
 - Save a copy in My drive and then run it in colab instance.
 ![GitHub Logo](/images/saveCopy.PNG)
 
