@@ -1,4 +1,10 @@
-# PyConf-2019 Lime-Workshop
+# PyConf-2019 
+
+# Decrytpting ML models using LIME
+
+Instructor: Laisha Wadhwa
+
+Time: 7th Dec 2019 04:00 – 05:40
 
 With wide no. of libraries & frameworks available for building ML models ML has become a black-box these days. Thus model interpretability is vital. But its hard to define a model’s decision boundary in simple terms. **With LIME its easy to produce faithful explanations and decrypt any ML model.**
 
@@ -17,7 +23,15 @@ It uses a representation that is understood by the humans irrespective of the ac
 
 Details on Hands on sessions:
 
-To run the notebooks open the links during the session and then select the option to open with drive and create a copy in your own drive.
+Access [Google colab](https://colab.research.google.com/) and familiarize yourself with running code in the colab environment.
+
+Read the 'Getting started' guide and go through the introductory video.
+
+
+To run the notebooks open the link during the session and then select either of the two options:
+- Open in Playground mode.
+- Save a copy in My drive and then run it in colab instance.
+
 
 1. [Digit classification using LIME](https://colab.research.google.com/drive/1WFGxoMV4UpIlqm1mw6Y2bBcr7G_44VbC#scrollTo=0LSML3Mr2cpF) : Understanding why we get false positives. Decrypting the decision boundary of Image classifiers.
 
