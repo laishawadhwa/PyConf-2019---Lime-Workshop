@@ -54,3 +54,5 @@ To run the notebooks open the link during the session and then select either of 
 3. Demo session on [Deep Learning models decrytion- cats and dogs classification using LIME](https://colab.research.google.com/drive/1kE3cOaVEIB-hK5IDMucNUJPF7MIaLSLP#scrollTo=aIkWfAsy1TjS)
 
 All resources and further reading are added at the end of colab notebooks.
+
+In case of any queries you can reach me on the slack channel!
