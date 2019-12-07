@@ -4,7 +4,7 @@
 
 Instructor: Laisha Wadhwa
 
-Time: 7th Dec 2019 04:00 – 05:40
+Time: 7th Dec 2019 04:00 – 05:30
 
 With wide no. of libraries & frameworks available for building ML models ML has become a black-box these days. Thus model interpretability is vital. But its hard to define a model’s decision boundary in simple terms. **With LIME its easy to produce faithful explanations and decrypt any ML model.**
 
